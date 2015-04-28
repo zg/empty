@@ -1,1 +1,1 @@
-10,000+ commits+
+10,000+ commits
